@@ -1,16 +1,64 @@
 {
-  "name": "auto-sect",
-  "main": "./lib/auto-sect",
-  "version": "0.2.3",
-  "description": "A package for auto-titling your code. Supports indentation.",
-  "keywords": [],
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+        "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-116829-13664-1ycld00"
+    ]
+  ],
+  "_from": "..\\d-116829-13664-1jqtjcq\\package.tgz",
+  "_id": "auto-sect@0.2.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/auto-sect",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+    "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-116829-13664-1jqtjcq\\package.tgz",
+  "_shasum": "09764b53a0465539d3e00ff9fa43ef8fcdfed176",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+  "_where": "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-116829-13664-1ycld00",
   "activationCommands": {
     "atom-workspace": "auto-sect:title"
   },
-  "repository": "https://github.com/guywald1/auto-sect",
-  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guywald1/auto-sect/issues"
+  },
+  "dependencies": {},
+  "description": "A package for auto-titling your code. Supports indentation.",
+  "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/guywald1/auto-sect#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/auto-sect",
+  "name": "auto-sect",
+  "optionalDependencies": {},
+  "readme": "# auto-sect package\n\nA package for auto-titling your code.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guywald1/auto-sect.git"
+  },
+  "version": "0.2.3"
 }
