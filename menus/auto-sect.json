@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Auto-Sect",
+            "command": "auto-sect:title"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "auto-sect",
+            "submenu": [{
+                "label": "Title",
+                "command": "auto-sect:title"
+            }]
+        }]
+    }]
+}
