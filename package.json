@@ -1,16 +1,16 @@
 {
-    "name": "auto-sect",
-    "main": "./lib/auto-sect",
-    "version": "0.1.0",
-    "description": "A package for auto-titling your code. Supports indentation.",
-    "keywords": [],
-    "activationCommands": {
-        "atom-workspace": "auto-sect:title"
-    },
-    "repository": "https://github.com/guywald1/auto-sect",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "auto-sect",
+  "main": "./lib/auto-sect",
+  "version": "0.2.0",
+  "description": "A package for auto-titling your code. Supports indentation.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "auto-sect:title"
+  },
+  "repository": "https://github.com/guywald1/auto-sect",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
