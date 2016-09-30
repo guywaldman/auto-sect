@@ -11,31 +11,43 @@
         "type": "local"
       },
       "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-116829-13664-1ycld00"
+    ],
+    [
+      {
+        "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
+        "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-116829-12176-ck8gfg"
     ]
   ],
-  "_from": "..\\d-116829-13664-1jqtjcq\\package.tgz",
-  "_id": "auto-sect@0.2.3",
+  "_from": "..\\d-116829-12176-43xqg1\\package.tgz",
+  "_id": "auto-sect@0.2.4",
   "_inCache": true,
   "_installable": true,
   "_location": "/auto-sect",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+    "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
-    "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
+    "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
+    "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-116829-13664-1jqtjcq\\package.tgz",
+  "_resolved": "file:..\\d-116829-12176-43xqg1\\package.tgz",
   "_shasum": "09764b53a0465539d3e00ff9fa43ef8fcdfed176",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-13664-1jqtjcq\\package.tgz",
-  "_where": "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-116829-13664-1ycld00",
+  "_spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-116829-12176-43xqg1\\package.tgz",
+  "_where": "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-116829-12176-ck8gfg",
   "activationCommands": {
     "atom-workspace": "auto-sect:title"
   },
@@ -60,5 +72,5 @@
     "type": "git",
     "url": "git+https://github.com/guywald1/auto-sect.git"
   },
-  "version": "0.2.5"
+  "version": "0.2.4"
 }
