@@ -11,6 +11,9 @@ A package for auto-titling your code. Supports indentation.
 - JavaScript
 - HTML
 - CSS
+- SASS/SCSS
+- Python
+- Shell/BASH
 
 All other syntaxes use the `//` inline comment syntax (that, of course, includes SASS/SCSS, C, etc);
 
