@@ -1,6 +1,6 @@
 # Auto-Sect for Atom
 
-A package for auto-titling your code. Supports indentation.
+A [package](https://atom.io/packages/auto-sect) for auto-titling your code. Supports indentation.
 
 <hr/>
 
