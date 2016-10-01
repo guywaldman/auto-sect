@@ -9,11 +9,14 @@ A package for auto-titling your code. Supports indentation.
 ## Syntax supported
 
 - JavaScript
+- CoffeeScript
 - HTML
 - CSS
 - SASS/SCSS
 - Python
 - Shell/BASH
+- Haskell
+- Ruby
 
 All other syntaxes use the `//` inline comment syntax (that, of course, includes SASS/SCSS, C, etc);
 
