@@ -35,31 +35,43 @@
         "type": "local"
       },
       "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-11691-6256-1qk4pnn"
+    ],
+    [
+      {
+        "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
+        "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-11691-7340-dhft6s"
     ]
   ],
-  "_from": "..\\d-11691-6256-7yqzto\\package.tgz",
-  "_id": "auto-sect@0.4.0",
+  "_from": "..\\d-11691-7340-h3ikxn\\package.tgz",
+  "_id": "auto-sect@0.5.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/auto-sect",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-6256-7yqzto\\package.tgz",
+    "raw": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-6256-7yqzto\\package.tgz",
-    "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-6256-7yqzto\\package.tgz",
+    "rawSpec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
+    "spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-11691-6256-7yqzto\\package.tgz",
+  "_resolved": "file:..\\d-11691-7340-h3ikxn\\package.tgz",
   "_shasum": "09764b53a0465539d3e00ff9fa43ef8fcdfed176",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-6256-7yqzto\\package.tgz",
-  "_where": "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-11691-6256-1qk4pnn",
+  "_spec": "C:\\Users\\guy\\AppData\\Local\\Temp\\d-11691-7340-h3ikxn\\package.tgz",
+  "_where": "C:\\Users\\guy\\AppData\\Local\\Temp\\apm-install-dir-11691-7340-dhft6s",
   "activationCommands": {
     "atom-workspace": "auto-sect:title"
   },

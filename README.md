@@ -19,5 +19,5 @@ All other syntaxes use the `//` inline comment syntax (that, of course, includes
 
 ## To be added
 
-- Custom Configuration
 - More syntax support
+- More configuration
