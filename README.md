@@ -1,6 +1,7 @@
 # Auto-Sect for Atom
+[![apm](https://img.shields.io/apm/dm/auto-sect.svg)]() [![apm](https://img.shields.io/apm/v/auto-sect.svg)]()
 
-A [package](https://atom.io/packages/auto-sect) for auto-titling your code. Supports indentation.
+An [Atom Package](https://atom.io/packages/auto-sect) for auto-titling your code. Supports indentation.
 
 <hr/>
 
